@@ -58,4 +58,22 @@ g=a
 
 acceleration is independent of mass thus a feather falls as fast as brick (in an airless chamber)
 
-w
+Demonstration (Shooting a falling monkey): aim where the monkey was before he falls, the bullet will be shot at where the monkey was, but both monkey and bullet will be affected by gravity at the same rate so it will always hit.
+
+
+##Energy##
+
+Potential Energy (stored): Hire has more energy
+
+Kinetic Energy (moving): Faster moving has more energy
+
+More mass/height more gravitational potential energy, as an object falls, it looses it potential energy but gains kinetic energy
+
+Bouncy ball: 
+
+* When you drop it has potential energy
+* When it is dropping it has kinetic energy
+* When it hits the table it has compressed energy (potential energy)
+* When it goes up it has kinetic energy
+
+It looses some of its energy to heat (sound, etc), however if it goes back to exactly the same height, it is called a complete elastic collision
