@@ -1,4 +1,4 @@
-#9/12/2016 Lecture 2 Mechanics#
+#9/14/2016 Lecture 2 Mechanics#
 
 ##Momentum##
 
