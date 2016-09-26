@@ -8,7 +8,6 @@ Multiple choice final
 Midterm: 	October 24 2016 in class 
 
 
-
 ----------
 #9/12/2016 Lecture 1 Mechanics#
 
